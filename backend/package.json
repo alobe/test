@@ -1,0 +1,26 @@
+{
+  "name": "personal-node",
+  "version": "1.0.0",
+  "description": "a personal node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alobe@github.com/alobe/personal-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "alobe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alobe/personal-node/issues"
+  },
+  "homepage": "https://github.com/alobe/personal-node#readme",
+  "devDependencies": {
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-register": "^6.26.0"
+  }
+}
